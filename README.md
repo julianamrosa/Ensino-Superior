@@ -8,7 +8,7 @@ Juliana Magalhães Rosa;
 Lucas Loureiro Lino da Costa.
 
 ## Links
-Dados utilizados:https://drive.google.com/drive/u/2/folders/1ADNfKYFsS5KtiSh9Et99lZvQVoRu-cvC  
+Dados utilizados: https://drive.google.com/drive/u/2/folders/1ADNfKYFsS5KtiSh9Et99lZvQVoRu-cvC  
 Apresentação do trabalho: https://youtu.be/mLJnj_JrgB0
 
 ## Arquivos
